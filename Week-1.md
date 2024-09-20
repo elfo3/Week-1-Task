@@ -1,8 +1,8 @@
-#Week-1 Lab Assignment
+# Week-1 Lab Assignment
 
 I have read and understood information on ELE361L web-site (ele361l.github.io)
 
-##System Properties
+## System Properties
 
 **İşlemci**: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz   2.59 GHz
 
