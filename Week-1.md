@@ -12,3 +12,7 @@ I have read and understood information on ELE361L web-site (ele361l.github.io)
 
 |Sürüm        | 23H2|
 
+| Bileşen     | Bilgi                             |
+|-------------|-----------------------------------|
+| **İşlemci** | Intel(R) Core(TM) i3-1005G1      |
+| **RAM**     | 8.00 GB (7.80 GB usable)         |
